@@ -20,5 +20,5 @@
 <a href="https://www.linkedin.com/in/alparslan-mustafa-deveci-4a3652244/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alparslanmustafa" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8ee78f1e8e34c8633eacc5c6cc3f832b394fc4523a6acafdd173d37486a0c0a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616361726e696c7375262673686f775f69636f6e733d74727565267468656d653d6461726b266c696e655f6865696768743d323726763d35"><img src="https://camo.githubusercontent.com/b8ee78f1e8e34c8633eacc5c6cc3f832b394fc4523a6acafdd173d37486a0c0a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616361726e696c7375262673686f775f69636f6e733d74727565267468656d653d6461726b266c696e655f6865696768743d323726763d35" alt="Alp's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=alparslanmustafa&amp;&amp;show_icons=true&amp;theme=dark&amp;line_height=27&amp;v=5" style="max-width: 100%;"></a><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alparslanmustafa&theme=merko&show_icons=true">
 
