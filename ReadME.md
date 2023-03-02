@@ -1,4 +1,4 @@
-<h3>Hi There! I'm Alp 👋<h3>
+<h1>Hi There! I'm Alp 👋<h1>
 
 I'm being full-stack developer and still learning, i love learning. I'm trying to be better day by day. You can find the technologies i learned below and if you wish you can review my codes. Kind regards...
 
