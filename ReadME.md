@@ -1,7 +1,7 @@
 
 
 <h3>Hi There! I'm Alp 👋<h3>
-<img src="https://camo.githubusercontent.com/ad50acaae0f8b806d631e640e005684253632a15fe586eeaf1e84c1e3aae3f57/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736576696d6f7a736f79266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="sevimozsoy" data-canonical-src="https://komarev.com/ghpvc/?username=sevimozsoy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+<img src="https://camo.githubusercontent.com/ad50acaae0f8b806d631e640e005684253632a15fe586eeaf1e84c1e3aae3f57/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736576696d6f7a736f79266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="alparslanmustafa" data-canonical-src="https://komarev.com/ghpvc/?username=alparslanmustafa&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 
 <h3>I'm being full-stack developer and still learning, i love learning. I'm trying to be better day by day. You can find the technologies i learned below and if you wish you can review my codes. Kind regards...<h3>
