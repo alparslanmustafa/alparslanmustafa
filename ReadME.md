@@ -2,6 +2,16 @@
 
 <h3>Hi There! I'm Alp 👋<h3>
   
+  <summary
+    class="Header-link"
+    aria-label="View profile and more"
+    data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+  >
+    <img src="https://avatars.githubusercontent.com/u/109857655?s=40&amp;v=4" alt="@alparslanmustafa" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
+      <span class="unread-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
+    <span class="dropdown-caret"></span>
+  </summary>
+  
 <h3>I'm being full-stack developer and still learning, i love learning. I'm trying to be better day by day. You can find the technologies i learned below and if you wish you can review my codes. Kind regards...<h3>
 
   
