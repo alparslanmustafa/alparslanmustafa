@@ -20,4 +20,4 @@
 <a href="https://www.linkedin.com/in/alparslan-mustafa-deveci-4a3652244/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alparslanmustafa" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=alparslanmustafa&theme=dark&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img src="https://github-readme-stats.vercel.app/api?username=alparslanmustafa&theme=merko&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
