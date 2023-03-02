@@ -1,17 +1,8 @@
 
 
 <h3>Hi There! I'm Alp 👋<h3>
-  
-  <summary
-    class="Header-link"
-    aria-label="View profile and more"
-    data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
-  >
-    <img src="https://avatars.githubusercontent.com/u/109857655?s=40&amp;v=4" alt="@alparslanmustafa" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
-      <span class="unread-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
-    <span class="dropdown-caret"></span>
-  </summary>
-  
+  <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e580e1555468b01318d85e66f47044f6c294b0c109e59db8d1639ea4a4063c04/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616361726e696c7375266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/e580e1555468b01318d85e66f47044f6c294b0c109e59db8d1639ea4a4063c04/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616361726e696c7375266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="alparslanmustafa" data-canonical-src="https://komarev.com/ghpvc/?username=alparslanmustafa&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
 <h3>I'm being full-stack developer and still learning, i love learning. I'm trying to be better day by day. You can find the technologies i learned below and if you wish you can review my codes. Kind regards...<h3>
 
   
